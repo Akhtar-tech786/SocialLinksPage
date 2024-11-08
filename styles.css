@@ -1,0 +1,73 @@
+@font-face {
+    font-family: Inter-Variable;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+    font-family: Inter-Bold;
+    src: url(Inter-Bold.ttf);
+    font-family: Inter-SemiBold;
+    src: url(Inter-SemiBold.ttf);
+    font-family: Inter-Regular;
+    src: url(Inter-Regular.ttf);
+}
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+#main {
+    height: 550px;
+    width: 350px;
+    background-color: hsl(0, 0%, 12%);
+    border: 1px solid ;
+    border-radius: 20px;
+    margin: 70px 100px 50px 600px;
+    font-family: 'Inter-Regular';
+}
+img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin: 20px 40px 20px 100px;
+}
+h3 {
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+p {
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    margin-top: -10px;
+}
+h5 {
+    text-align: center;
+}
+.white {
+    color: white;
+}
+li {
+    list-style: none;
+}
+.link {
+    height: 40px;
+    width: 270px;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+li {
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+}
+.links {
+    text-decoration: none;
+}
+span {
+    color: white;
+}
+#attribution { 
+    font-size: 11px; text-align: center; 
+}
+#attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+  
